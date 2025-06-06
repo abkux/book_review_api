@@ -56,3 +56,5 @@ app.listen(port, () => {
 });
 
 // I have written this in Typescript - I can also write this in JavaScript with ES6+ Syntax.
+// If you have any issue feel free to create Gitub Issue or email me.
+// I am currently looking for Internship and Full-time roles in backend development. 
